@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P22_YAROSLAV_OOP_LESSON23_AVL_TREE", "P22_YAROSLAV_OOP_LESSON23_AVL_TREE\P22_YAROSLAV_OOP_LESSON23_AVL_TREE.vcxproj", "{43AB4088-F234-430F-B0C2-B092FFFEC7FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43AB4088-F234-430F-B0C2-B092FFFEC7FF}.Debug|x64.ActiveCfg = Debug|x64
+		{43AB4088-F234-430F-B0C2-B092FFFEC7FF}.Debug|x64.Build.0 = Debug|x64
+		{43AB4088-F234-430F-B0C2-B092FFFEC7FF}.Debug|x86.ActiveCfg = Debug|Win32
+		{43AB4088-F234-430F-B0C2-B092FFFEC7FF}.Debug|x86.Build.0 = Debug|Win32
+		{43AB4088-F234-430F-B0C2-B092FFFEC7FF}.Release|x64.ActiveCfg = Release|x64
+		{43AB4088-F234-430F-B0C2-B092FFFEC7FF}.Release|x64.Build.0 = Release|x64
+		{43AB4088-F234-430F-B0C2-B092FFFEC7FF}.Release|x86.ActiveCfg = Release|Win32
+		{43AB4088-F234-430F-B0C2-B092FFFEC7FF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBAF623F-2030-4C20-95D7-1A49EAE2B7CF}
+	EndGlobalSection
+EndGlobal
